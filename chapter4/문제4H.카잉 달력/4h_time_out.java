@@ -95,4 +95,4 @@ class KaingCalendar
 
 		return index;
 	}
-}ss
+}
