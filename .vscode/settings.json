@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "chapter6/문제6D.조세퍼스 문제",
+        "chapter6/문제6F.폭탄 제거 순서 정하기"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m"
+}
